@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F76B1C&center=true&vCenter=true&width=500&lines=Building+TrackLine+%F0%9F%9A%97;SwiftUI+%2B+CloudKit+%2B+MapKit;Sürüşünü+kaydet%2C+rekoru+kır." alt="typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F76B1C&center=true&vCenter=true&width=500&lines=Building%20TrackLine%20%F0%9F%9A%97;SwiftUI%20+%20CloudKit%20+%20MapKit;S%C3%BCr%C3%BC%C5%9F%C3%BCn%C3%BC%20kaydet%2C%20rekoru%20k%C4%B1r." alt="typing animation" />
 </p>
 
 ---
